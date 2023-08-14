@@ -1,3 +1,3 @@
 # Tensorflow
 
-Studying tensorflow and depp learning
+Studying tensorflow and deep learning
